@@ -1,0 +1,12 @@
+{
+  "tverse": {
+    "version": "0.7.44",
+    "main_js": "app.js?0.7.44",
+    "js_hash": "96f3d0911d35111ecda067357ab4b45a5070e2850f846d6333a7c8163a9fb02e"
+  },
+  "zoo": {
+    "version": "0.0.0",
+    "main_js": "index-CeNYgm2H.js",
+    "js_hash": "2925dc106480a66c8cc67707c492145e039af7bb6293ba9f46ca23ea774a7430"
+  }
+}
