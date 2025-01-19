@@ -1,12 +1,12 @@
 {
   "tverse": {
-    "version": "0.7.56",
-    "main_js": "app.js?0.7.56",
-    "js_hash": "20b9fc0da775ff1412d6f0966fd6bdb0fca1b1a3506b666e1c5eabd2465a6a03"
+    "version": "0.7.60",
+    "main_js": "app.js?0.7.60",
+    "js_hash": "e49d248b5f43db1f25d51d2d77ae3cd929b2355ef7c7ef44de18262a288212c3"
   },
   "zoo": {
     "version": "0.0.0",
-    "main_js": "index-BMWzR83D.js",
-    "js_hash": "8b09a79c63b6f092760e3e984e38f757dabf12341dfef0e678726aa5ad0273ec"
+    "main_js": "index-BQW30zYH.js",
+    "js_hash": "3c8495d6b2a8beb28017c5501dfd8ccb9cfcac861679d03d77d5f52a2ac14d53"
   }
 }
