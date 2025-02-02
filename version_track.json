@@ -8,8 +8,10 @@
     "js_hash": "d1fbb5a6c26f1fb605c561c8633518a8da2189c9f4882798c2525d460a2b11ec"
   },
   "paws": {
-    "main_js": "app-684ca777e107ae5b.js",
-    "js_hash": "24d5030c11b4836c60f34c55b9d20903a674986feea0a6fe7f918043fccd18d5"
+    "main_js": "index-632fceca9e32975a.js",
+    "main_js_web": "app-e7ecec2bf8297e40.js",
+    "js_hash": "a2d67c91b850fdb2cb677a374c0dc7f10e6da647d8b10b51f3b109b809481b00",
+    "js_hash_web": "15f1145e1c7953363eeb4c56b3db72bb42d75986843fd8b6433f7441bc6f4ce4"
   },
   "bool": {
     "main_js": "CxtvwN_7.js",
