@@ -1,24 +1,10 @@
 {
-  "blum": {
-    "main_js": "TkfSaITf.js",
-    "js_hash": "7d363bdbe424d813f3064998e8ca97349fb8c5b0ad8e536c9805a3f0cdb52e93"
-  },
   "cvd": {
     "main_js": "app.C4fZRtVO.js",
     "js_hash": "88196b9d34ccdedbd036eeb3393e5118ff5128ad51d4e8dfbeae3d3d7756cd3b"
   },
-  "paws": {
-    "main_js": "index-632fceca9e32975a.js",
-    "main_js_web": "app-684ca777e107ae5b.js",
-    "js_hash": "a2d67c91b850fdb2cb677a374c0dc7f10e6da647d8b10b51f3b109b809481b00",
-    "js_hash_web": "24d5030c11b4836c60f34c55b9d20903a674986feea0a6fe7f918043fccd18d5"
-  },
   "bool": {
     "main_js": "CxtvwN_7.js",
     "js_hash": "e3a34b8f2a96834302f8185882be33727058b7180c6fb3be805663483a65fb28"
-  },
-  "dogiators": {
-    "main_js": "index-Baf4eHTi.js",
-    "js_hash": "28dcb22e80d7d3f805e93040907593772eb1e48f2ca9554c421da36034142d74"
   }
 }
